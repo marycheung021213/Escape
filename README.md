@@ -8,8 +8,8 @@ Here is the repository for the source code.
 ![无标题2](https://github.com/marycheung021213/EmoEar/assets/106864918/30b2a08f-ee89-482f-9500-42de1168f81f)
 
 ## Project Page
-[https://hellojiaqi.com/pages/projects/project2.html](https://hellojiaqi.com/pages/projects/project4.html)
+https://hellojiaqi.com/pages/projects/project4.html
 
 ## Demo Video
-[https://youtu.be/fKMHX68eHgI](https://youtu.be/mhrExDgRpAA)https://youtu.be/mhrExDgRpAA
+https://youtu.be/mhrExDgRpAA
 
